@@ -21,4 +21,4 @@ Todo list:
   
   These would be generated from the "database" as static web pages.
 
-* Transfer the database to github.  The database shoDe would be organized/named in such as way as to make the importable in to an actual database if required.  This would provide maximum visibility of any changes/updates made, and not tie the data to a specific database product.
+* Transfer the database to github.  The database should be organized/named in such as way as to make it importable in to an actual database if required.  This would provide maximum visibility of any changes/updates made, and not tie the data to a specific database product.
